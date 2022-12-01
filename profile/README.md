@@ -1,7 +1,4 @@
 <!--Header-->
-<div id="header" align="center">
-    <img src="image/header.gif" ></img>
-</div>
 
 <div id="badges" align="center">
     <a href="">
@@ -19,10 +16,6 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div id="body" align="center">
-    <img src="image/programmer.gif" ></img>
-</div>
 
 ### :man_technologist: About Me :
 
